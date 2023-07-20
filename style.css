@@ -150,7 +150,34 @@ main {
 .teams-description{
     padding-top: 30px;
 }
+/* facts section */
+.section-title{
+    font-size: 45px;
+    margin-top: 40px;
+}
+.section-paragraph{
+    font-size: 25px ;
+    padding-top: 20px;
+}
 
+  .card-stats{
+    padding: 10px;
+    color: red;
+    font-size: 2rem;
+  } 
+
+.facts-card-container{
+    display: flex;
+    justify-content: space-evenly;
+}
+.facts-card-container .card{
+    border: 2px solid orange;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    text-align: center;
+    padding: 20px 20px;
+    margin: 60px;
+}
 
 
 
