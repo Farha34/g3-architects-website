@@ -186,6 +186,7 @@ main {
 /* sponsor section */
 .sponsors{
     text-align: center;
+    margin-top: 100px;
 }
 .sectiopn-title{
     font-size: 50px;
@@ -204,6 +205,20 @@ main {
 .sponsor-img-container img{
     width: 160px;
 
+}
+/* fotter section */
+.fotter-container{
+    background-color: #FFF4E7;
+   height: 100px;
+   margin: 100px 0px;
+}
+.fotter-section{
+    color: var(--dark-02, #424242);
+text-align: center;
+font-family: Work Sans;
+font-size: 20px;
+font-weight: 400;
+padding-top: 40px;
 }
 
 
